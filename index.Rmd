@@ -1,0 +1,29 @@
+---
+title: "Diego Carmona Campos"
+image: "diego.jpg"
+links:
+  - label: e-mail
+    url: "diegocar@lcg.unam.mx"
+  - label: GitHub
+    url: "https://github.com/diego-carc"
+  - label: Twitter
+    url: "https://twitter.com/diego_carc934"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+Diego Carmona Campos is an undergraduate student in the Genomic Sciences program at Universidad Nacional Autónoma de México. Diego currently lives in Cuernavaca, Morelos Mexico. He is a current colaborator at FreyreLab at Centro de Ciencias Genómicas UNAM. Diego is intersted in Computational Biology, Systems Biology and Bioinformatics as research topics, but also in Philosophy and History of Science for a nice talk!
+
+## Education
+
+**UNAM** | Cuernavaca, Mexico
+
+LCG | August 2022 - Present
+
+## Experience
+
+**FreyreLab** | Undergraduate research assistant | December 2022 - Present
+
+
