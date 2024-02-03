@@ -3,7 +3,7 @@ title: "Diego Carmona Campos"
 image: "diego.jpg"
 links:
   - label: e-mail
-    url: "diegocar@lcg.unam.mx"
+    url: "mailto:diegocar@lcg.unam.mx"
   - label: GitHub
     url: "https://github.com/diego-carc"
   - label: Twitter
